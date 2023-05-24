@@ -1,2 +1,2 @@
 # Clon_Pinterest
- Proyecto Con de Pinterest DEVF
+ Proyecto Clon de Pinterest DEVF
